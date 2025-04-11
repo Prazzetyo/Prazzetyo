@@ -8,7 +8,7 @@ Saya mempunyai pengalaman di pemrograman selama 5 tahun.
 
 Saya juga telah menyelesaikan beberapa projek selama sekolah dan magang sejak 2016.
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin]ku(https://www.linkedin.com/in/muhammad-dwi-prasetyo-33203721b/) ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedinku](https://www.linkedin.com/in/muhammad-dwi-prasetyo-33203721b/) ya.
 
 <p align="left">
 <a href="https://github.com/Prazzetyo">
